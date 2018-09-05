@@ -84,3 +84,21 @@ aside {
     box-align: center;
     margin: 20%;
 }
+
+.home-button {
+    background-color: #000000;
+    color: #FFFFFF;
+    cursor: pointer;
+    font: lighter 10px Montserrat, sans-serif;
+    padding: 14px 24px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: 0;
+    text-decoration: none;
+}
+.home-button:hover {
+    background-color: transparent;
+    color: #000;
+    border:1px solid #000;
+    text-decoration: none;
+}
