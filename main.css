@@ -1,0 +1,79 @@
+.nav-font{
+    font-size: 16px;
+    font-family: 'Work Sans', arial, sans-serif;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.san-font {
+    font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    background-color: #F5F8FF;
+}
+
+main {
+    margin: 50px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.test{
+    display: flex;
+    justify-content: right;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.times-spaced{
+    font-family: serif;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.cardo-serif{
+font-family: 'Cardo', serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+aside {
+    display: flex;
+    justify-content: flex-end;
+
+    
+}
+
+.right {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-evenly;
+}
+
+.projects-button {
+    background-color: #000000;
+    color: #FFFFFF;
+    cursor: pointer;
+    font: lighter 10px Montserrat, sans-serif;
+    padding: 14px 24px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: 0;
+    text-decoration: none;
+}
+.projects-button:hover {
+    background-color: transparent;
+    color: #000;
+    border:1px solid #000;
+    text-decoration: none;
+}
