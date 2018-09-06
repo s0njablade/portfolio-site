@@ -9,5 +9,5 @@ I used bootstrap for my nav bar. Used flexbox where necessary and created the re
 ## Deployed Link
 http://sonja-chacon-portfolio.surge.sh/index.html
 
-##Screenshot
-![](wireframe.jpg)
+## Screenshot
+![](wireframe.png)
