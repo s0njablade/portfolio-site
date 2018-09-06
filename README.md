@@ -8,4 +8,4 @@ I used bootstrap for my nav bar. Used flexbox where necessary and created the re
 http://sonja-chacon-portfolio.surge.sh/index.html
 
 ![Wireframe]
-(wireframe.jpg)
+(s0njblade/portfolio-site/wireframe.jpg)
