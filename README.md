@@ -6,5 +6,6 @@ At the moment there are 2 pages: homepage and projects. I have commented out an 
 I used bootstrap for my nav bar. Used flexbox where necessary and created the rest with html and css. 
 ## Deployed Link
 http://sonja-chacon-portfolio.surge.sh/index.html
-## wireframe
-![Wireframe](wireframe.jpg)
+
+![Wireframe]
+(wireframe.jpg)
